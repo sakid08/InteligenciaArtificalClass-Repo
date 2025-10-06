@@ -1,4 +1,4 @@
-# Solución al cuadrado magico
+# Solución para esquivar
 
 ## Explicación
 
