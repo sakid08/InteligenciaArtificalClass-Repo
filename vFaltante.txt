@@ -1,0 +1,26 @@
+
+=========================
+			_______
+			NOTAS
+			_______
+			
+	Crear el gitignore
+=========================
+
+
+T06 - Proyecto A estrella
+
+T08 - deteccion de rostros
+
+T09 - Deteccion de emociones
+
+T10 - CNN 01
+
+T11 - Proyecto deteccion de animales
+																perros
+																gatos
+																tortugas
+																hormigas
+																mariquitas
+|
+
