@@ -22,7 +22,6 @@ orden_revision = [[-1, -1], [0, -1], [1, -1], [1, 0], [1, 1], [0, 1], [-1, 1], [
 
 
 class Nodo:
-    # MODIFICADO: Renombradas variables para claridad
     def __init__(self, fila, col, ancho, total_filas, n_nodo, n_padre, g_costo=float('inf'), h_heuristica=float('inf')):
         self.fila = fila
         self.col = col
@@ -80,7 +79,6 @@ class Nodo:
         pygame.draw.rect(ventana, self.color, (self.x, self.y, self.ancho, self.ancho))
 
 
-# MODIFICADO: Heurística de Distancia Octil
 def h(p1_pos, p2_pos):
     fila1, col1 = p1_pos
     fila2, col2 = p2_pos
