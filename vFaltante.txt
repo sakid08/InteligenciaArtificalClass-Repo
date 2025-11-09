@@ -8,15 +8,14 @@
 =========================
 
 
-T06 - Proyecto A estrella
 
-T08 - deteccion de rostros
+T09 - Manos + triangulo
 
-T09 - Deteccion de emociones
+T11 - Deteccion de emociones
 
-T10 - CNN 01
+T12 - CNN Deteccion de emociones Mediapipe
 
-T11 - Proyecto deteccion de animales
+T13 - Proyecto deteccion de animales
 																perros
 																gatos
 																tortugas
@@ -24,3 +23,6 @@ T11 - Proyecto deteccion de animales
 																mariquitas
 |
 
+T14 - Modelo LLM 01
+
+T15 - Bjar 5 modelos LLM (Mas info en temas)
