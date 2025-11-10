@@ -4,25 +4,22 @@
 			NOTAS
 			_______
 			
-	Crear el gitignore
 =========================
 
-
-
-T09 - Manos + triangulo
-
-T11 - Deteccion de emociones
+T11 - Manos + rectangulo
+	Hacer que con las manos se dibuje un rectangulo y se agrande 
+	y rote segun el movimeinto que se haga
 
 T12 - CNN Deteccion de emociones Mediapipe
 
 T13 - Proyecto deteccion de animales
-																perros
-																gatos
-																tortugas
-																hormigas
-																mariquitas
+										perros
+										gatos
+										tortugas
+										hormigas
+										mariquitas
 |
 
 T14 - Modelo LLM 01
 
-T15 - Bjar 5 modelos LLM (Mas info en temas)
+T15 - Bajar 5 modelos LLM (Mas info en temas)
