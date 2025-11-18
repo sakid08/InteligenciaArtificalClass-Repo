@@ -19,7 +19,7 @@ while cap.isOpened():
     h, w, _ = frame.shape
 
     manoX1 = manoY1 = manoX2 = manoY2 = None
-    puntoDeseado = 9
+    puntoDeseado = 8
 
     if results.multi_hand_landmarks:
         count = 0

@@ -1,14 +1,10 @@
 
 =========================
-			_______
-			NOTAS
-			_______
+		_______
+		NOTAS
+		_______
 			
 =========================
-
-T11 - Manos + rectangulo
-	Hacer que con las manos se dibuje un rectangulo y se agrande 
-	y rote segun el movimeinto que se haga
 
 T12 - CNN Deteccion de emociones Mediapipe
 
@@ -23,3 +19,8 @@ T13 - Proyecto deteccion de animales
 T14 - Modelo LLM 01
 
 T15 - Bajar 5 modelos LLM (Mas info en temas)
+
+T16 - WebScrapping sobre comentarios info de lo de Uruapan por lo de Carlos Manzo y lo de la toma del tec morelia
+
+T17 - Analizar el dataset 
+
