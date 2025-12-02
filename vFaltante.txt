@@ -16,11 +16,12 @@ T13 - Proyecto deteccion de animales
 										mariquitas
 |
 
-T14 - Modelo LLM 01
+T14 - Modelo LLM 01 - hay que pasarle el temario
 
 T15 - Bajar 5 modelos LLM (Mas info en temas)
 
 T16 - WebScrapping sobre comentarios info de lo de Uruapan por lo de Carlos Manzo y lo de la toma del tec morelia
 
-T17 - Analizar el dataset 
+T19 - Proyecto 3, (el audio que le mande a Isa)
 
+T20 - Lo de similitud coseno, Analisis Data | Jupyter
