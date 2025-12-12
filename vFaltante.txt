@@ -6,8 +6,6 @@
 			
 =========================
 
-T12 - CNN Deteccion de emociones Mediapipe
-
 T13 - Proyecto deteccion de animales
 										perros
 										gatos
