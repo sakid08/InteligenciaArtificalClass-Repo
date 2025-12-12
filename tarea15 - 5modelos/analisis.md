@@ -52,7 +52,7 @@ Este sistema completó adecuadamente ciertas actividades sencillas de recuperaci
 
 ---
 
-### ❌ Falla Grave (Alucinaciones): tinyllama
+### (Alucinaciones): tinyllama
 
 Este modelo no solo erró en sus respuestas, sino que **generó información ficticia** (alucinó) ajena por completo al contenido del programa.
 
@@ -64,7 +64,7 @@ Este modelo no solo erró en sus respuestas, sino que **generó información fic
 
 ---
 
-### Falla Grave tinydolphin y qwen:0.5b
+### tinydolphin y qwen:0.5b
 
 Ambos sistemas fracasaron en el requisito más elemental: seguir la instrucción de "responder las 5 preguntas".
 
