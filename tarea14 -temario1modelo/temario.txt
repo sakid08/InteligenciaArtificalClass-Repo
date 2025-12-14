@@ -1,0 +1,225 @@
+Introducción a la Inteligencia Artificial. 1.1 Introducción a la Inteligencia Artificial.
+1.2 Historia de la Inteligencia Artificial.
+1.3 Las habilidades cognoscitivas según la
+ psicología. Teorías de la inteligencia
+ (conductismo, Gardner, etc.).
+1.4 El proceso de razonamiento según la
+ lógica (Axiomas, Teoremas,
+ demostración).
+1.5 El modelo de adquisición del
+ conocimiento según la filosofía.
+1.6 El modelo cognoscitivo.
+1.7 El modelo del agente inteligente,
+ Sistemas Multi Agentes, Sistemas
+ Ubicuos.
+1.8 El papel de la heurística.
+1.8.1 Algoritmos de exploración de
+alternativas.
+1.8.2 Algoritmo A*.
+1.8.3 Algoritmos de búsqueda local.
+2 representación del conocimiento,
+razonamiento y los Aspectos
+Metodológicos en Inteligencia Artificial.
+2.1 Principios y Metodología de la Inteligencia
+Artificial.
+2.2 Paradigmas de la Inteligencia Artificial.
+2.3 Mapas conceptuales.
+2.4 Redes semánticas.
+2.5 Razonamiento monótono.
+2.7 Conocimiento no-monótono y otras
+ lógicas.
+2.8 Razonamiento probabilístico.
+2.9 Teorema de Bayes.
+3 Reglas y Búsqueda. 3.1 Representación de conocimiento
+ mediante reglas
+3.2 Métodos de Inferencia en reglas
+3.3 Reglas de producción.
+3.4 Sintaxis de las reglas de producción.
+3.5 Semántica de las reglas de producción
+3.6 Arquitectura de un sistema de Producción
+(SP) o sistemas basados en reglas, (SBR).
+ 3.6.1 Hechos.
+ 3.6.2 Base de conocimientos.
+ 3.6.3 Mecanismo de control.
+
+3.2 Espacios de estados determinísticos y
+ espacios no determinísticos.
+3.3 Búsqueda sistemática.
+ 3.3.1 Búsqueda de metas a profundidad.
+ 3.3.2 Búsqueda de metas en anchura.
+4 Aplicaciones con técnicas de IA. 4.1. Robótica.
+ 4.1.1. Conceptos básicos.
+ 4.1.2. Clasificación.
+ 4.1.3. Desarrollos actuales y
+ aplicaciones.
+4.2. Redes Neuronales (RN).
+ 4.2.1. Conceptos básicos.
+ 4.2.2. Clasificación.
+ 4.2.3. Desarrollos actuales y
+ aplicaciones.
+4.3. Visión artificial.
+ 4.3.1. Conceptos básicos.
+ 4.3.2. Desarrollos actuales y
+ aplicaciones.
+4.4. Lógica difusa (Fuzzy Logic).
+ 4.4.1. Conceptos básicos.
+ 4.4.2. Desarrollos actuales y
+ aplicaciones.
+4.5. Procesamiento de Lenguaje Natural
+ (PLN).
+ 4.5.1. Conceptos básicos.
+ 4.5.2. Desarrollos actuales y
+ aplicaciones.
+4.6. Sistemas Expertos (SE).
+ 4.6.1. Conceptos básicos.
+ 4.6.2. Clasificación.
+ 4.6.3. Desarrollos actuales y
+ aplicaciones.
+©TecNM mayo 2016 Página | 7
+
+
+
+7. Actividades de aprendizaje de los temas
+1. Introducción a la Inteligencia Artificial.
+Competencias Actividades de aprendizaje
+Específica(s):
+• Conocer los conceptos fundamentales de la
+IA, así como el estado del arte de las áreas de
+la inteligencia artificial.
+Genéricas:
+• Capacidad de análisis y síntesis.
+• Capacidad de organizar y planificar.
+• Habilidad para buscar y analizar información
+proveniente de fuentes diversas.
+• Solución de problemas.
+• Toma de decisiones.
+• Trabajo en equipo.
+• Capacidad de aplicar los conocimientos.
+• Habilidades de investigación.
+• Capacidad de generar nuevas ideas.
+• Liderazgo.
+• Habilidad para trabajar en forma.
+Autónoma.
+• Búsqueda del logro.
+• Investigar sobre los diferentes enfoques de la
+Inteligencia artificial.
+• Discutir en grupo los diferentes enfoques.
+• Plantear una línea de tiempo de la historia de
+la IA.
+• Investigar las técnicas actuales de la
+inteligencia artificial.
+• Investigar y seleccionar desarrollos
+• actuales de la inteligencia artificial.
+• Comentar en grupo los desarrollos actuales
+de la Inteligencia artificial.
+• Investigar información acerca de los modelos
+de agente inteligente.
+• Discutir acerca de los diferentes modelos de
+agentes inteligentes.
+• Investigar el concepto de heurística.
+• Elaborar el mapa conceptual de heurística.
+2. Representación del conocimiento, razonamiento y los Aspectos Metodológicos en Inteligencia
+Artificial.
+Competencias Actividades de aprendizaje
+Específica(s):
+• Representar el conocimiento por medio de un
+sistema basado en conocimiento.
+Genéricas:
+• Capacidad de análisis y síntesis.
+• Capacidad de organizar y planificar.
+• Investigar información acerca de definiciones
+y elementos de los sistemas basados en
+conocimientos.
+• Representar el conocimiento mediante un
+mapa conceptual y una red semántica.
+• Investigar y comentar los conceptos de
+sintaxis, semántica, validez e inferencia en la
+lógica de predicados.
+©TecNM mayo 2016 Página | 8
+
+
+
+• Habilidad para buscar y analizar información
+proveniente de fuentes diversas.
+• Solución de problemas.
+• Toma de decisiones.
+• Trabajo en equipo.
+• Capacidad de aplicar los conocimientos.
+• Habilidades de investigación.
+• Capacidad de generar nuevas ideas.
+• Liderazgo.
+• Habilidad para trabajar en forma.
+Autónoma.
+• Búsqueda del logro.
+• Representar el conocimiento por medio de
+lógica de predicados.
+• Investigar y seleccionar información acerca
+de los conceptos de aprendizaje,
+razonamiento probabilístico, lógicas
+multivaluadas y lógica difusa.
+• Realizar un modelo de red bayesiana a un
+problema de diagnóstico.
+3. Reglas y Búsqueda.
+Competencias Actividades de aprendizaje
+Específica(s):
+• Resolver problemas en base a técnicas de
+búsqueda en espacio de estado.
+Genéricas:
+• Capacidad de análisis y síntesis.
+• Capacidad de organizar y planificar.
+• Habilidad para buscar y analizar información
+proveniente de fuentes diversas.
+• Solución de problemas.
+• Toma de decisiones.
+• Trabajo en equipo.
+• Capacidad de aplicar los conocimientos.
+• Habilidades de investigación.
+• Capacidad de generar nuevas ideas.
+• Liderazgo.
+• Habilidad para trabajar en forma.
+Autónoma.
+• Búsqueda del logro.
+• Investigar los tipos de problemas que se
+resuelven con las técnicas de búsqueda.
+• Describir gráficamente problemas en
+términos de espacios de estado (problema de
+misioneros y caníbales, problemas de juego
+entre dos adversarios, etc.).
+• Investigar información sobre los métodos de
+búsqueda (primero en anchura, primero en
+profundidad).
+• Discutir en grupo los diferentes algoritmos de
+búsqueda.
+• Realizar un proyecto para resolver un
+problema de un juego clásico (gato, ajedrez,
+puzzle, misioneros y caníbales, etc.),
+empleando un método de búsqueda óptima.
+4. Aplicaciones con técnicas de IA.
+Competencias Actividades de aprendizaje
+Específica(s):
+• Conocer las áreas de la IA y sus aplicaciones
+actuales, identificando oportunidades de
+desarrollo de soluciones en su entorno.
+Genéricas:
+• Capacidad de análisis y síntesis.
+• Capacidad de organizar y planificar.
+• Habilidad para buscar y analizar información
+proveniente de fuentes diversas.
+• Solución de problemas.
+• Toma de decisiones.
+• Trabajo en equipo.
+• Capacidad de aplicar los conocimientos.
+• Habilidades de investigación.
+• Capacidad de generar nuevas ideas.
+• Liderazgo.
+• Habilidad para trabajar en forma.
+Autónoma.
+• Búsqueda del logro.
+• Investigar la clasificación de las diferentes
+áreas que comprenden la IA.
+• Investigar, desarrollar y exponer en grupo
+y/o en equipos, la situación actual de cada
+una de las áreas que comprenden la IA.
+• Realizar una aplicación que resuelva
+problemas del entorno aplicando una
+vertiente de la IA.
