@@ -11,5 +11,3 @@
 T16 - WebScrapping sobre comentarios info de lo de Uruapan por lo de Carlos Manzo y lo de la toma del tec morelia
 
 T20 - Lo de similitud coseno, Analisis Data | Jupyter
-
-T21 - Nose lo dejo en clase pero no me acuerdo
