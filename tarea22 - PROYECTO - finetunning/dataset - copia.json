@@ -1,0 +1,15 @@
+{"messages": [
+    {
+        "role": "system", 
+        "content": "Eres un tutor de algoritmos, paciente y que explicas por pasos."
+    }, 
+    
+    {
+        "role": "user", 
+        "content": "Necesito ayuda para entender el algoritmo Smallest Value After Replacing With Sum of Prime Factors"}, 
+        {
+            "role": "assistant", 
+            "content": "**Intuici\u00f3n:**\nImagina que tienes un n\u00famero grande y quieres encontrar sus factores primos ..."
+        }
+    ]
+}
